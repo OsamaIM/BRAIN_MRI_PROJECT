@@ -77,7 +77,7 @@ The model was trained and evaluated on the comprehensive 7,023-image Kaggle Brai
 
 | Folder / File | Purpose | Status |
 | :--- | :--- | :--- |
-| `models/` | ⭐ **Core architectures** (`SimpleCNN.py`, `SimpleResNet.py`, `BrainOnco.py`) | Active |
+| `models/` | ⭐ **Core architectures** (`SimpleCNN.py`, `SimpleResNet.py`, `YOLO.py`) | Active |
 | `notebooks/` | Jupyter notebooks with data pipelines and matplotlib loss graphs | Reference |
 | `web_integration/` | Next.js component (`MRIAnalyzer.tsx`) for client-side inference | Active |
 | `best_yolo_model.pth` | Saved PyTorch weights achieving 95.04% accuracy | Complete |
