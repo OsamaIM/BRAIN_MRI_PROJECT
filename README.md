@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="project logo.jpg" alt="BrainOnco-100K Logo" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
+<img src="project%20logo.jpg" alt="project Logo" width="250" />
 
 <h3 align="center">Efficient Deep Learning for Brain Tumor Classification</h3>
 <p align="center"><i>"Bringing Medical AI to the Edge"</i></p>
